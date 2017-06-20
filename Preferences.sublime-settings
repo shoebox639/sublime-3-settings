@@ -1,0 +1,53 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "blink",
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"enable_tab_scrolling": false,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"compiled_js"
+	],
+	"font_size": 10,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"overlay_scroll_bars": "enabled",
+	"predawn_sidebar_arrows": true,
+	"predawn_sidebar_large": false,
+	"predawn_sidebar_medium": false,
+	"predawn_sidebar_narrow": false,
+	"predawn_sidebar_small": false,
+	"predawn_sidebar_xlarge": false,
+	"predawn_sidebar_xsmall": false,
+	"predawn_tabs_active_underline": true,
+	"predawn_tabs_large": false,
+	"predawn_tabs_medium": false,
+	"predawn_tabs_small": true,
+	"shift_tab_unindent": true,
+	"show_definitions": false,
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Boxy Monokai.sublime-theme",
+	"theme_dirty_accent_blue": true,
+	"theme_dirty_materialized": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_folder_materialized": true,
+	"theme_sidebar_indent_top_level_disabled": true,
+	"theme_tab_selected_underlined": true,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": false
+}
